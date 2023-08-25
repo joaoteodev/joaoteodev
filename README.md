@@ -8,9 +8,10 @@
 
 Currently I work with Web Development with WordPress, and now learning about React and NextJS.
 
-
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=joaoteodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
-  ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoteodev&layout=compact&langs_count=7&theme=omni)
+<a href="https://github.com/joaoteodev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoteodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoteodev&layout=compact&langs_count=7&theme=omni"/>
+</a>
 
 ## Detailed information
 

@@ -6,11 +6,11 @@
 
 # Hey, what's up?
 
-Currently I work with Web Development with WordPress, and now learning about React and NextJS.
+Currently I work with Web Development with WordPress, and now learning about C# and .NET
 
 <a href="https://github.com/joaoteodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoteodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoteodev&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats-joaoteodev.vercel.app/api?username=joaoteodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-joaoteodev.vercel.app/api?username=joaoteodev&layout=compact&langs_count=7&theme=omni"/>
 </a>
 
 ## Detailed information
@@ -20,13 +20,7 @@ Currently I work with Web Development with WordPress, and now learning about Rea
 - **Living in**: Belo Horizonte - MG, Brazil
 - **University**: Analysis and Systems Development - UNIASSELVI
 
-## Stack
+## Technologies
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-3858E9?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img align="center" alt="reactjs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="sass" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge" />
-  <img align="center" alt="sass" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge" />
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,php,wordpress,react,dotnet,cs)](https://skillicons.dev)
 </div>

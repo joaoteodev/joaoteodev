@@ -16,7 +16,7 @@ Currently I work with Web Development with WordPress, and now learning about Rea
 ## Detailed information
 
 - **Name**: João Pedro
-- **Age**: 20
+- **Age**: 21
 - **Living in**: Belo Horizonte - MG, Brazil
 - **University**: Analysis and Systems Development - UNIASSELVI
 

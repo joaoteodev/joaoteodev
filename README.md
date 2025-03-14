@@ -21,6 +21,4 @@ Currently I work with Web Development with WordPress, and now learning about C# 
 - **University**: Analysis and Systems Development - UNIASSELVI
 
 ## Technologies
-<div style="display: inline_block">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,php,wordpress,react,dotnet,cs)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,php,wordpress,react,dotnet,cs)](https://skillicons.dev)

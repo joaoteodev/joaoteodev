@@ -10,7 +10,7 @@ Currently I work with Web Development with WordPress, and now learning about C# 
 
 <a href="https://github.com/joaoteodev">
   <img height="180em" src="https://github-readme-stats-joaoteodev.vercel.app/api?username=joaoteodev&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-joaoteodev.vercel.app/api?username=joaoteodev&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats-joaoteodev.vercel.app/api/top-langs/?username=joaoteodev&layout=compact&langs_count=7&theme=omni"/>
 </a>
 
 ## Detailed information

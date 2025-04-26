@@ -18,7 +18,7 @@ Currently I work with Web Development with WordPress, and now learning about C# 
 - **Name**: João Pedro
 - **Age**: 21
 - **Living in**: Belo Horizonte - MG, Brazil
-- **University**: Analysis and Systems Development - UNIASSELVI
+- **University**: Information Systems - PUC Minas - 08/2025 - 07/2029
 
 ## Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,php,wordpress,react,dotnet,cs)](https://skillicons.dev)
